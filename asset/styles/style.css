@@ -46,6 +46,10 @@ i {
   margin-right: 20px;
 }
 
+footer i {
+  color: white;
+}
+
 .center i {
   margin: 0;
 }
@@ -140,10 +144,6 @@ i {
 .exp {
   margin: 2px 5px;
   color: #808080;
-}
-
-footer i {
-  color: white;
 }
 
 .center {
