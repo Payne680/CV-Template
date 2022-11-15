@@ -8,7 +8,6 @@ body {
 }
 
 .page-container {
-  display: block;
   margin: 12px;
   position: relative;
   display: flex;
@@ -143,6 +142,11 @@ i {
   color: #808080;
 }
 
+.center {
+  text-align: center;
+  padding: 0;
+}
+
 footer i {
   color: white;
 }
@@ -160,11 +164,9 @@ footer i {
   font-size: 16px;
   padding: 0 10px;
 }
+
 .exp {
   padding: 1px;
-}
-.exp i {
-  font-size: 35px;
 }
 
 span {
@@ -175,17 +177,11 @@ span {
   padding: 10px;
 }
 
-
 footer {
   color: white;
   padding: 10px;
   background-color: teal;
   width: 100%;
-}
-
-.center {
-  text-align: center;
-  padding: 0;
 }
 
 @media only screen and (max-width: 480px) {
