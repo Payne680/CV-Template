@@ -16,10 +16,12 @@
  Google chrome
 ##### CLONE PROJECT
   .To get a local copy of this work on your computer, you will need to clone it i.e cloning the repository. This done   by using the linux , mac terminal or git bash  on windows.
-  .Here is a link to clone [link](git@github.com:Payne680/cv-template.git)
+  .Here is a link to clone git@github.com:Payne680/cv-template.git
   .Change to the project directory by entering:cd wedding-template in the terminal
 ##### STEPS
-  .$ git clone [link](git@github.com:Payne680/cv-template.git)
+  .$ git clone git@github.com:Payne680/cv-template.git
+  .$ cd cv
+  .$ git checkout feature/setup
 ###### StART APP
 . run the site by opening the index.html in the browser
 ###### AUTHOR
