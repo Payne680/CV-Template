@@ -142,13 +142,13 @@ i {
   color: #808080;
 }
 
+footer i {
+  color: white;
+}
+
 .center {
   text-align: center;
   padding: 0;
-}
-
-footer i {
-  color: white;
 }
 
 .exp i {
@@ -163,10 +163,6 @@ footer i {
   color: #808080;
   font-size: 16px;
   padding: 0 10px;
-}
-
-.exp {
-  padding: 1px;
 }
 
 span {
